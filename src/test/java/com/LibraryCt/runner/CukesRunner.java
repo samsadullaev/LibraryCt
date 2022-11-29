@@ -12,7 +12,6 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
         features = "src/test/resources/Features" ,
-       // querey = "src/test/resources/Querey"?
         glue = "com/LibraryCt/step_def" ,
         dryRun = false,
         tags = "@"
