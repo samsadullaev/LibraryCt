@@ -45,6 +45,8 @@ public class DB_Util {
 
         createConnection(url, username, password);
 
+        //"jdbc:mysql://34.230.35.214:3306/library2", "library2_client", "6s2LQQTjBcGFfDhY"
+
     }
 
 
